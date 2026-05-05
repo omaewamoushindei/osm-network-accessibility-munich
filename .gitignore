@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+
+outputs/*.html
+outputs/*.gpkg
+outputs/*.graphml
+data/*.csv
+data/*.json
+data/*.geojson
+data/*.gpkg
